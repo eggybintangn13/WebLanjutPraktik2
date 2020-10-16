@@ -18,4 +18,4 @@ class Home extends BaseController
 		echo view('mahasiswa/footer', $data);
 	}
 
-}
+}s
